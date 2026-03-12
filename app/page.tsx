@@ -63,7 +63,12 @@ export default function Home() {
           </h1>
 
           <p className="text-gray-400 text-lg">
-            I turn ambiguity into measurable impact building digital financial infrastructure and onboarding systems.
+          Digital Product Manager with 8+ years building regulated financial platforms across banking and fintech.
+
+I specialize in designing scalable onboarding and compliance systems that replace manual operations with automated digital workflows.
+
+My work spans digital banking, investor onboarding and regulatory product infrastructure.
+
           </p>
 
         </section>
